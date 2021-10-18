@@ -44,3 +44,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## License
 This File is under [MIT](LICENSE) License.
+
+## Support
+Email: [ian.wanarua@student.moringaschool.com](ian.wanarua@student.moringaschool.com)
