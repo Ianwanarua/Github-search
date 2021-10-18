@@ -47,3 +47,7 @@ This File is under [MIT](LICENSE) License.
 
 ## Support
 Email: [ian.wanarua@student.moringaschool.com](ian.wanarua@student.moringaschool.com)
+
+Contact: +254720368300
+
+copyright (c) 2021 _Github-search_
