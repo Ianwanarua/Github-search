@@ -8,3 +8,5 @@ _Ian Wanarua_
 ## Description
 
 This is an angular CLI app that lets Users input their github username and then it displays their profile together with their repositories.
+
+## Development server
