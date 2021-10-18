@@ -36,4 +36,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 - Angular ClI
 
 ## Live Demo
- View the [live]() demo.
+ View the [live](https://ianwanarua.github.io/Github-search/) demo.
