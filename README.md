@@ -10,3 +10,5 @@ _Ian Wanarua_
 This is an angular CLI app that lets Users input their github username and then it displays their profile together with their repositories.
 
 ## Development server
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
