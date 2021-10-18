@@ -1,0 +1,53 @@
+*{
+  background-image: url(/src/assets/mustafa-omar-Zkao_QBEjk8-unsplash.jpg);
+}
+#username {
+  border-color: blue;
+}
+
+#user_profile {
+  width: 80%;
+  height: auto;
+  border-radius: 50%;
+
+}
+
+#user_profile img {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+
+.following {
+  margin-right: 10%;
+}
+
+.f1 {
+  padding-left: 2%;
+  color: rgb(58, 169, 212);
+}
+
+.repoLabel {
+  margin-top: 6%;
+}
+
+.userInfo {
+  font-size: 18px;
+  font-weight: 500;
+  margin-top: 10%;
+  color: #228376;
+
+}
+
+.uname {
+  color: #1a3455;
+  font-weight: 700;
+  font-size: 30px;
+}
+
+.card{
+  background: rgba(255, 255, 255, 0.575);
+  width: 500px;
+  margin: 10px;
+  padding: 20px 10px;
+}
